@@ -6901,10 +6901,8 @@ var createDrawFunction  = function() {
 		var len = records.length;
 		for(var i = 0; i < len; i++) {
 			var record = records[i];
-            console.log("RECORD FONT ID:", record.fontId);
 			if(record.fontId != null) {
 				font = dictionary[record.fontId];
-                console.log("FONT:", font);
 			}
 			if(record.color != null) {
 				color = record.color;
@@ -7740,7 +7738,6 @@ var Parser = function(option) {
 	};
 
 	Parser.prototype.dealBody = function(pos, delayEval, colorRange) {
-        console.log("dealBody Called!");
 		var loader = this.loader;
 		var loadedBytes = loader.loadedBytes;
 		var binary = loader.binary;
