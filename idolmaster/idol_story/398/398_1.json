@@ -1,0 +1,16 @@
+{
+    "episode_type": "cjs",
+    "composition_name": "_398_2",
+    "image_base_path": "image_sp/cjs/episode/398_2/",
+    "sequence_script_path": "../idolmaster/idol_story/398/398_1.js",
+    "talk_script_path": "../idolmaster/idol_story/398/398_1_talk.js",
+    "voices": {
+        "scene1": "../idolmaster/sound/9900920/560808b13050c56f73343b652804bbd5.mp4",
+        "scene2": "../idolmaster/sound/9900920/8aa7c784de1720b3286144ffc1ed3e56.mp4",
+        "scene3": "../idolmaster/sound/9900920/b4f5e6a8945cc3ff7aa618f59d3985c1.mp4",
+        "scene4": "../idolmaster/sound/9900920/b80ae86e849a49e417558c9fe6cfb461.mp4",
+        "scene5": "../idolmaster/sound/9900920/96c313a6e51154cdd70cb3dfa69e3ea9.mp4",
+        "scene6": "../idolmaster/sound/9900920/cec0984c986172cea396759b2365a616.mp4",
+        "scene7": "../idolmaster/sound/9900920/40632d15a38c770e220b7428d288304f.mp4"
+    }
+}

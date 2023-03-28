@@ -1,0 +1,36 @@
+{
+    "define_texts": {
+        "24": {
+            "text": "事務所",
+            "height": 16,
+            "x": null,
+            "y": 340
+        },
+        "25": {
+            "text": "ガーデンパーティー",
+            "height": 16,
+            "x": null,
+            "y": 340
+        },
+        "26": {
+            "text": "舞踏会",
+            "height": 16,
+            "x": null,
+            "y": 340
+        },
+        "27": {
+            "text": "バルコニー",
+            "height": 16,
+            "x": null,
+            "y": 340
+        }
+    },
+    "variables": {
+        "1": {
+            "idol_name": "新田美波",
+            "item_name": "美波がくれた5周年ｹｰｷ",
+            "msg": "自分で思う､可能性はたくさんあったんですね｡私の知らない私…これからも､一緒に探してください､bittersweetさん♪"
+        }
+    },
+    "replace_font": false
+}

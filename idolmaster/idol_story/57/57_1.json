@@ -1,0 +1,6 @@
+{
+    "episode_type": "swf",
+    "swf_path": "../idolmaster/idol_story/57/57_1.swf",
+    "replacement_path": "../idolmaster/idol_story/57/57_1_replacement.json",
+    "voice_library_path": "../idolmaster/js/GeneVoice.js"
+}
